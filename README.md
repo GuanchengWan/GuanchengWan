@@ -4,7 +4,7 @@ I'm SuHui, currently a sophomore undergraduate student at the School of Computer
 
 ### 🌱 Work
 
-I’m currently learning artificial intelligence and software engieering, focusing on the computer vision(CV) and federal learning. I'm looking forward to your cooperation.
+I’m currently learning artificial intelligence and software engieering, focusing on the computer vision(CV), grapcial and federal learning, while realizing  them in the practical application. I'm looking forward to your cooperation.
 
 
 
