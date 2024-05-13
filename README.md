@@ -1,18 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
-I'm SuHui, currently a sophomore undergraduate student at the School of Computer Science, Wuhan University (WHU), China, pursuing a B.E. degree in Software Engieering.
+I'm SuHui, currently an undergraduate student at the School of Computer Science, Wuhan University (WHU), China.
 
 ### 🌱 Work
 
-I’m currently learning artificial intelligence and software engieering, focusing on the computer vision(CV), graph and federated learning, while realizing them in the practical application. I'm looking forward to your cooperation.
-
-
-
-
-
-### 🔭Study
-
-
+I’m currently learning artificial intelligence and software engieering, focusing on the computer vision(CV), graph and federated learning, while realizing them in the practical application. 
 
 
 
