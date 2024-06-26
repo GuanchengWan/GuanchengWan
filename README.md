@@ -2,9 +2,23 @@
 
 I'm SuHui, currently an undergraduate student at the School of Computer Science, Wuhan University (WHU), China.
 
-### 🌱 Work
+### 🔎 Research 
 
-I’m currently learning artificial intelligence and software engieering, focusing on the computer vision(CV), graph and federated learning, while realizing them in the practical application. 
+"All things are interconnected, this is the essence of nature."
+
+I am enthusiastic about modeling the relationship of these connections, particularly focusing on <u>geometric data</u>. Currently, my research interests revolve around three primary areas: 
+
+a) AI for Science:  
+- Biotechnology (*e.g.*, Genomics)
+
+- Public Health (*e.g.*, Epidemiology)
+
+- Physics (*e.g.*, Neural ODE, PINN)
+
+b) TrustWorthy Graph Learning
+
+c) Self-supervised Graph Learning
+
 
 
 
