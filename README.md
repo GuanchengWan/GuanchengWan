@@ -21,11 +21,11 @@ c) Self-supervised Graph Learning
 
 
 
-
+<!--
 ### ⚡All Skills
 
 ![](https://skillicons.dev/icons?perline=10&i=github,gitlab,git,stackoverflow,vscode,idea,python,pytorch,js,ts,html,css,c,bootstrap,jquery,nodejs,java,vue,tailwind,vite,spring,maven,mongo,redis,mysql,md,linux,docker,nginx,swift)
-
+ -->
 
 
 ### 🪐Devices
